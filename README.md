@@ -7,5 +7,7 @@ After cloning the files perform the following commands in your terminal
 
 
 To push an existing repository from the command line
--git remote add origin https://github.com/amanandhar0/react_mis.git
--git push -u origin master
+-git add .
+-git commit -m "Add exiting file"
+-git push origin https://github.com/amanandhar0/react_mis.git
+
