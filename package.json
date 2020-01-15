@@ -5,8 +5,10 @@
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-icons": "^3.8.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "prop-types": "latest"
   },
   "devDependencies": {},
   "scripts": {

@@ -1,21 +1,24 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {Fragment} from 'react';
+import "./App.css";
+import SingleRoom from "./pages/SingleRoom";
+import Error from "./pages/Error";
+import Room from "./pages/Room";
+import Home from "./pages/Home";
 
-class App extends Component {
-  render() {
+import {Route, Switch} from "react-router-dom"
+
+
+function App() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
+        <Fragment>
+            <Switch>
+                <Route exact path="/" component={Home}/>
+                <Route exact path="/rooms/" component={Room}/>
+                <Route exact path="/rooms/:slug" component={SingleRoom}/>
+                <Route component={Error}/>
+            </Switch>
+        </Fragment>
     );
-  }
 }
 
 export default App;
