@@ -97,6 +97,9 @@ h6 {
   background: var(--offWhite);
   z-index: 1;
 }
+.logo{
+  height: 41px;
+}
 .nav-header {
   display: flex;
   justify-content: space-between;
@@ -133,7 +136,7 @@ h6 {
 }
 
 .show-nav {
-  height: 100px;
+  height: 135px;
 }
 @media screen and (min-width: 768px) {
   .nav-btn {

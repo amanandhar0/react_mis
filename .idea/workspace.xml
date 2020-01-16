@@ -48,6 +48,8 @@
       <workItem from="1579017222833" duration="169000" />
       <workItem from="1579098319208" duration="1148000" />
       <workItem from="1579103173191" duration="5543000" />
+      <workItem from="1579181746821" duration="7619000" />
+      <workItem from="1579196815043" duration="65000" />
     </task>
     <servers />
   </component>
@@ -55,6 +57,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="617" y="303" width="675" height="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579189527777">
+      <screen x="0" y="0" width="1920" height="1033" />
+    </state>
+    <state x="617" y="303" width="675" height="425" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1033@0.0.1920.1033" timestamp="1579189527777" />
     <state x="159" y="414" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579103776129">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>

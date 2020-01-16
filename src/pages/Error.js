@@ -1,8 +1,9 @@
 import React from 'react';
+import Hero from "../components/Hero";
 
 function Error(props) {
     return (
-        <div>hello from error page</div>
+        <Hero/>
     );
 }
 
