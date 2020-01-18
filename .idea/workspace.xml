@@ -20,6 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
@@ -51,6 +52,7 @@
       <workItem from="1579181746821" duration="7619000" />
       <workItem from="1579196815043" duration="65000" />
       <workItem from="1579275387034" duration="3862000" />
+      <workItem from="1579344230067" duration="1965000" />
     </task>
     <servers />
   </component>
